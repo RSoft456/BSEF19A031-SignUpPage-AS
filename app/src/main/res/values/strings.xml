@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SignUpPage</string>
+    <string name="SignUp">Sign-Up</string>
+    <string name="UserName">Enter User Name:</string>
+    <string name="Password">Enter Password:</string>
+    <string name="ConfirmPassword">Confirm Password:</string>
 </resources>
