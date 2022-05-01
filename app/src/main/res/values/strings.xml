@@ -4,4 +4,9 @@
     <string name="UserName">Enter User Name:</string>
     <string name="Password">Enter Password:</string>
     <string name="ConfirmPassword">Confirm Password:</string>
+    <string name="SButton">Sign-Up</string>
+    <string name="popup"></string>
+    <string name="Efield">No field can be empty!</string>
+    <string name="Success">User Signed Up successfully</string>
+    <string name="wrong">Sign-Up filed,mismatched Passwor!</string>
 </resources>
