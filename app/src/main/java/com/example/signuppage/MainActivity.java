@@ -36,9 +36,12 @@ public class MainActivity extends AppCompatActivity {
             }
             else{
                 message.setText(R.string.Efield);
-                name.setText(R.string.UserName);
-                pass.setText(R.string.Password);
-                conpass.setText((R.string.ConfirmPassword));
+                if(name.equals(""))
+                    name.setText(R.string.UserName);
+                if(pass.equals(""))
+                    pass.setText(R.string.Password);
+                if(conpass.equals(""))
+                    conpass.setText((R.string.ConfirmPassword));
             }
 
         });
